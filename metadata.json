@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "swap-nodes-in-pairs",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "Medium",
+    "platforms": [
+      "LeetCode"
+    ],
+    "languages": [
+      "Java"
+    ],
+    "tags": [
+      "LeetCode"
+    ],
+    "lastSolved": "2026-07-17",
+    "solutions": [
+      {
+        "language": "Java",
+        "path": "DSA/Miscellaneous/Swap Nodes in Pairs.java"
+      }
+    ]
+  }
+]

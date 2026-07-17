@@ -1,0 +1,23 @@
+{
+  "totalSolved": 1,
+  "difficultyDistribution": {
+    "Easy": 0,
+    "Medium": 1,
+    "Hard": 0
+  },
+  "platformDistribution": {
+    "LeetCode": 1
+  },
+  "languageDistribution": {
+    "Java": 1
+  },
+  "topicDistribution": {
+    "Miscellaneous": 1
+  },
+  "streak": {
+    "current": 1,
+    "longest": 1,
+    "lastActiveDate": "2026-07-17"
+  },
+  "lastUpdated": "2026-07-17T05:42:36.470Z"
+}
