@@ -19,5 +19,26 @@
         "path": "DSA/Miscellaneous/Swap Nodes in Pairs.java"
       }
     ]
+  },
+  {
+    "slug": "merge-two-sorted-lists",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "platforms": [
+      "LeetCode"
+    ],
+    "languages": [
+      "Java"
+    ],
+    "tags": [
+      "LeetCode"
+    ],
+    "lastSolved": "2026-07-17",
+    "solutions": [
+      {
+        "language": "Java",
+        "path": "DSA/Miscellaneous/Merge Two Sorted Lists.java"
+      }
+    ]
   }
 ]
