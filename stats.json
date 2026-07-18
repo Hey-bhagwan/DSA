@@ -1,26 +1,26 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "difficultyDistribution": {
     "Easy": 1,
-    "Medium": 2,
+    "Medium": 3,
     "Hard": 0
   },
   "platformDistribution": {
     "LeetCode": 2,
-    "GFG": 1
+    "GFG": 2
   },
   "languageDistribution": {
     "Java": 2,
-    "Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)": 1
+    "Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)": 2
   },
   "topicDistribution": {
     "Miscellaneous": 2,
-    "Arrays": 1
+    "Arrays": 2
   },
   "streak": {
     "current": 2,
     "longest": 2,
     "lastActiveDate": "2026-07-18"
   },
-  "lastUpdated": "2026-07-18T06:58:08.836Z"
+  "lastUpdated": "2026-07-18T07:08:04.663Z"
 }
