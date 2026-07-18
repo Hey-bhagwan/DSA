@@ -183,5 +183,40 @@
         "path": "DSA/Arrays/Kadane's Algorithm.cpp"
       }
     ]
+  },
+  {
+    "slug": "peak-element",
+    "title": "Peak element",
+    "difficulty": "Medium",
+    "platforms": [
+      "GFG"
+    ],
+    "languages": [
+      "Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)"
+    ],
+    "tags": [
+      "Expected Complexities",
+      "Company Tags",
+      "Accolite",
+      "Amazon",
+      "Visa",
+      "Adobe",
+      "Google",
+      "Topic Tags",
+      "Arrays",
+      "Searching",
+      "Binary Search",
+      "Related Interview Experiences",
+      "Amazon Interview Experience Set 257 Off Campus",
+      "Related Articles",
+      "Find A Peak In A Given Array"
+    ],
+    "lastSolved": "2026-07-18",
+    "solutions": [
+      {
+        "language": "Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)",
+        "path": "DSA/Arrays/Peak element.cpp"
+      }
+    ]
   }
 ]
