@@ -40,5 +40,41 @@
         "path": "DSA/Miscellaneous/Merge Two Sorted Lists.java"
       }
     ]
+  },
+  {
+    "slug": "indexes-of-subarray-sum",
+    "title": "Indexes of Subarray Sum",
+    "difficulty": "Medium",
+    "platforms": [
+      "GFG"
+    ],
+    "languages": [
+      "Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)"
+    ],
+    "tags": [
+      "Expected Complexities",
+      "Company Tags",
+      "Amazon",
+      "Facebook",
+      "Google",
+      "Visa",
+      "Topic Tags",
+      "Arrays",
+      "prefix-sum",
+      "Searching",
+      "sliding-window",
+      "Related Interview Experiences",
+      "Amazon Interview Experience Set 291 On Campus For Sde1",
+      "Amazon Interview Experience Set 228 On Campus For Internship",
+      "Related Articles",
+      "Find Subarray With Given Sum"
+    ],
+    "lastSolved": "2026-07-18",
+    "solutions": [
+      {
+        "language": "Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)",
+        "path": "DSA/Arrays/Indexes of Subarray Sum.cpp"
+      }
+    ]
   }
 ]
