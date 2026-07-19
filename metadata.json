@@ -487,5 +487,36 @@
         "path": "DSA/Data Structures/Coin Change (Minimum Coins).cpp"
       }
     ]
+  },
+  {
+    "slug": "pair-with-difference",
+    "title": "Pair With Difference",
+    "difficulty": "Medium",
+    "platforms": [
+      "GFG"
+    ],
+    "languages": [
+      "Java (21)C++ (17)Java (21)Python3Javascript (Node v22)"
+    ],
+    "tags": [
+      "Expected Complexities",
+      "Company Tags",
+      "Amazon",
+      "Visa",
+      "Topic Tags",
+      "Sorting",
+      "Binary Search",
+      "Related Interview Experiences",
+      "Amazon Interview Experience Set 412 Sde Ii",
+      "Related Articles",
+      "Find A Pair With The Given Difference"
+    ],
+    "lastSolved": "2026-07-19",
+    "solutions": [
+      {
+        "language": "Java (21)C++ (17)Java (21)Python3Javascript (Node v22)",
+        "path": "DSA/Arrays/Pair With Difference.cpp"
+      }
+    ]
   }
 ]
