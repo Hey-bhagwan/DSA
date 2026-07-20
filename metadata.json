@@ -568,5 +568,26 @@
         "path": "DSA/Linked Lists/Shortest Unique Prefix for Every Word.cpp"
       }
     ]
+  },
+  {
+    "slug": "shift-2d-grid",
+    "title": "Shift 2D Grid",
+    "difficulty": "Easy",
+    "platforms": [
+      "LeetCode"
+    ],
+    "languages": [
+      "Java"
+    ],
+    "tags": [
+      "LeetCode"
+    ],
+    "lastSolved": "2026-07-20",
+    "solutions": [
+      {
+        "language": "Java",
+        "path": "DSA/Miscellaneous/Shift 2D Grid.java"
+      }
+    ]
   }
 ]
