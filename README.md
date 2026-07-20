@@ -2,25 +2,25 @@
 
 My unified dashboard for LeetCode, GeeksforGeeks, and other coding platforms, synchronized automatically by CodeSync.
 
-![Streak](https://img.shields.io/badge/Current_Streak-4_Days-orange?style=for-the-badge&logo=fire) ![Solved](https://img.shields.io/badge/Total_Solved-15-blue?style=for-the-badge&logo=leetcode) ![Last Updated](https://img.shields.io/badge/Last_Updated-2026-07-20T10%3A46%3A53.215Z-green?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current_Streak-4_Days-orange?style=for-the-badge&logo=fire) ![Solved](https://img.shields.io/badge/Total_Solved-16-blue?style=for-the-badge&logo=leetcode) ![Last Updated](https://img.shields.io/badge/Last_Updated-2026-07-20T11%3A18%3A38.197Z-green?style=for-the-badge)
 
 ---
 
 ## 📊 Analytics Summary
 
 ### 🧩 Difficulty Breakdown
-- **Easy**: 1 problems `[█░░░░░░░░░░░░░░] 7%`
-- **Medium**: 14 problems `[██████████████░] 93%`
+- **Easy**: 1 problems `[█░░░░░░░░░░░░░░] 6%`
+- **Medium**: 15 problems `[██████████████░] 94%`
 - **Hard**: 0 problems `[░░░░░░░░░░░░░░░] 0%`
 
 ### 💻 Languages Used
+- **Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)**: 7 solves
 - **Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)**: 6 solves
-- **Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)**: 6 solves
 - **Java**: 2 solves
 - **Java (21)C++ (17)Java (21)Python3Javascript (Node v22)**: 1 solve
 
 ### 🌐 Platforms Solved
-- **GFG**: 13 problems
+- **GFG**: 14 problems
 - **LeetCode**: 2 problems
 
 ---
@@ -31,7 +31,7 @@ My unified dashboard for LeetCode, GeeksforGeeks, and other coding platforms, sy
 | :--- | :--- |
 | **Arrays** | 7 |
 | **Miscellaneous** | 3 |
-| **Linked Lists** | 2 |
+| **Linked Lists** | 3 |
 | **Dynamic Programming** | 1 |
 | **Strings** | 1 |
 | **Data Structures** | 1 |
@@ -50,6 +50,7 @@ My unified dashboard for LeetCode, GeeksforGeeks, and other coding platforms, sy
 | Problem | Difficulty | Platform | Solutions | Solved Date |
 | :--- | :--- | :--- | :--- | :--- |
 | [Naive Approach] Check Each query Independently - O(n × q) Time and O(1) Space | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Miscellaneous/[Naive Approach] Check Each query Independently - O(n × q) Time and O(1) Space.cpp) | 2026-07-20 |
+| Shortest Unique Prefix for Every Word | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Linked Lists/Shortest Unique Prefix for Every Word.cpp) | 2026-07-20 |
 | Topological Sort | **Medium** | GFG | [Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Arrays/Topological Sort.cpp) | 2026-07-19 |
 | Longest Palindrome in a String | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Strings/Longest Palindrome in a String.cpp) | 2026-07-19 |
 | Remove Duplicates from a Sorted Linked List | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Linked Lists/Remove Duplicates from a Sorted Linked List.cpp) | 2026-07-19 |
@@ -58,8 +59,7 @@ My unified dashboard for LeetCode, GeeksforGeeks, and other coding platforms, sy
 | Coin Change (Minimum Coins) | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Data Structures/Coin Change (Minimum Coins).cpp) | 2026-07-19 |
 | Pair With Difference | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3Javascript (Node v22)](DSA/Arrays/Pair With Difference.cpp) | 2026-07-19 |
 | Indexes of Subarray Sum | **Medium** | GFG | [Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Arrays/Indexes of Subarray Sum.cpp) | 2026-07-18 |
-| Missing in Array | **Medium** | GFG | [Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Arrays/Missing in Array.cpp) | 2026-07-18 |
 
 ---
 
-*This repository is auto-generated and synchronized in real-time by [CodeSync](https://github.com/settings/apps). Last updated on 2026-07-20T10:46:53.215Z (UTC).*
+*This repository is auto-generated and synchronized in real-time by [CodeSync](https://github.com/settings/apps). Last updated on 2026-07-20T11:18:38.197Z (UTC).*
