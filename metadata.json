@@ -589,5 +589,30 @@
         "path": "DSA/Miscellaneous/Shift 2D Grid.java"
       }
     ]
+  },
+  {
+    "slug": "maximum-reachable-index-difference",
+    "title": "Maximum Reachable Index Difference",
+    "difficulty": "Medium",
+    "platforms": [
+      "GFG"
+    ],
+    "languages": [
+      "Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)"
+    ],
+    "tags": [
+      "Expected Complexities",
+      "Topic Tags",
+      "Strings",
+      "Related Articles",
+      "Maximum Reachable Index Difference"
+    ],
+    "lastSolved": "2026-07-21",
+    "solutions": [
+      {
+        "language": "Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)",
+        "path": "DSA/Strings/Maximum Reachable Index Difference.cpp"
+      }
+    ]
   }
 ]

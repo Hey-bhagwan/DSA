@@ -2,25 +2,25 @@
 
 My unified dashboard for LeetCode, GeeksforGeeks, and other coding platforms, synchronized automatically by CodeSync.
 
-![Streak](https://img.shields.io/badge/Current_Streak-4_Days-orange?style=for-the-badge&logo=fire) ![Solved](https://img.shields.io/badge/Total_Solved-17-blue?style=for-the-badge&logo=leetcode) ![Last Updated](https://img.shields.io/badge/Last_Updated-2026-07-20T11%3A26%3A38.663Z-green?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current_Streak-5_Days-orange?style=for-the-badge&logo=fire) ![Solved](https://img.shields.io/badge/Total_Solved-18-blue?style=for-the-badge&logo=leetcode) ![Last Updated](https://img.shields.io/badge/Last_Updated-2026-07-21T17%3A02%3A32.941Z-green?style=for-the-badge)
 
 ---
 
 ## 📊 Analytics Summary
 
 ### 🧩 Difficulty Breakdown
-- **Easy**: 2 problems `[██░░░░░░░░░░░░░] 12%`
-- **Medium**: 15 problems `[█████████████░░] 88%`
+- **Easy**: 2 problems `[██░░░░░░░░░░░░░] 11%`
+- **Medium**: 16 problems `[█████████████░░] 89%`
 - **Hard**: 0 problems `[░░░░░░░░░░░░░░░] 0%`
 
 ### 💻 Languages Used
-- **Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)**: 7 solves
+- **Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)**: 8 solves
 - **Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)**: 6 solves
 - **Java**: 3 solves
 - **Java (21)C++ (17)Java (21)Python3Javascript (Node v22)**: 1 solve
 
 ### 🌐 Platforms Solved
-- **GFG**: 14 problems
+- **GFG**: 15 problems
 - **LeetCode**: 3 problems
 
 ---
@@ -32,16 +32,16 @@ My unified dashboard for LeetCode, GeeksforGeeks, and other coding platforms, sy
 | **Arrays** | 7 |
 | **Miscellaneous** | 4 |
 | **Linked Lists** | 3 |
+| **Strings** | 2 |
 | **Dynamic Programming** | 1 |
-| **Strings** | 1 |
 | **Data Structures** | 1 |
 
 ---
 
 ## 🔥 Coding Streak
-- **Current Streak**: `4 days`
-- **Longest Streak**: `4 days`
-- **Last Active**: `2026-07-20`
+- **Current Streak**: `5 days`
+- **Longest Streak**: `5 days`
+- **Last Active**: `2026-07-21`
 
 ---
 
@@ -49,6 +49,7 @@ My unified dashboard for LeetCode, GeeksforGeeks, and other coding platforms, sy
 
 | Problem | Difficulty | Platform | Solutions | Solved Date |
 | :--- | :--- | :--- | :--- | :--- |
+| Maximum Reachable Index Difference | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Strings/Maximum Reachable Index Difference.cpp) | 2026-07-21 |
 | [Naive Approach] Check Each query Independently - O(n × q) Time and O(1) Space | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Miscellaneous/[Naive Approach] Check Each query Independently - O(n × q) Time and O(1) Space.cpp) | 2026-07-20 |
 | Shortest Unique Prefix for Every Word | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Linked Lists/Shortest Unique Prefix for Every Word.cpp) | 2026-07-20 |
 | Shift 2D Grid | **Easy** | LeetCode | [Java](DSA/Miscellaneous/Shift 2D Grid.java) | 2026-07-20 |
@@ -58,8 +59,7 @@ My unified dashboard for LeetCode, GeeksforGeeks, and other coding platforms, sy
 | Implement stack using array | **Medium** | GFG | [Java (21)C (gcc 5.4)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Arrays/Implement stack using array.cpp) | 2026-07-19 |
 | Intersection in Y Shaped Lists | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Linked Lists/Intersection in Y Shaped Lists.cpp) | 2026-07-19 |
 | Coin Change (Minimum Coins) | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3C#Javascript (Node v22)](DSA/Data Structures/Coin Change (Minimum Coins).cpp) | 2026-07-19 |
-| Pair With Difference | **Medium** | GFG | [Java (21)C++ (17)Java (21)Python3Javascript (Node v22)](DSA/Arrays/Pair With Difference.cpp) | 2026-07-19 |
 
 ---
 
-*This repository is auto-generated and synchronized in real-time by [CodeSync](https://github.com/settings/apps). Last updated on 2026-07-20T11:26:38.663Z (UTC).*
+*This repository is auto-generated and synchronized in real-time by [CodeSync](https://github.com/settings/apps). Last updated on 2026-07-21T17:02:32.941Z (UTC).*
